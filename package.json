@@ -25,7 +25,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "axios": "^1.6.5",
+    "axios": "^1.6.8",
     "openid-client": "^4.9.1"
   }
 }
